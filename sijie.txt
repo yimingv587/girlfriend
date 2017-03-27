@@ -1,3 +1,5 @@
 iloveyou
 sijie
+<<<<<<< HEAD
 BBBBBBBBBBB
+AAAAAAAAAAAA
